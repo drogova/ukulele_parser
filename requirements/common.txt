@@ -1,0 +1,2 @@
+parsel==1.5.*
+requests_html==0.10.*
